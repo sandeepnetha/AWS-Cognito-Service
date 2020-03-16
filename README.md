@@ -85,6 +85,8 @@ There are two ways to create user pool • Review default -
 • We can through each step and customize the settings
 
 Click on Attribute
+
+
 Which we can customize end user sign in
 
 The End user can sign two ways either by Username and Email address or phone Number
